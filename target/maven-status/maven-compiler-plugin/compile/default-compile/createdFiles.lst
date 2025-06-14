@@ -1,0 +1,6 @@
+io\pageObjects\LoginPage.class
+io\pageObjects\ProductCatalogue.class
+io\utilites\Utilites.class
+io\pageObjects\OrdersPage.class
+io\resources\ExtentReportsNG.class
+io\pageObjects\AddToCartPage.class
